@@ -1,0 +1,450 @@
+[{
+  "_id": {
+    "$oid": "680b5b2f8b58253d6af661ce"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a2"
+  },
+  "problems_solved": 123
+},
+{
+  "_id": {
+    "$oid": "680b5b2f8b58253d6af661cf"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a5"
+  },
+  "problems_solved": 120
+},
+{
+  "_id": {
+    "$oid": "680b5b2f8b58253d6af661d0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a7"
+  },
+  "problems_solved": 110
+},
+{
+  "_id": {
+    "$oid": "680b5b2f8b58253d6af661d1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b1"
+  },
+  "problems_solved": 65
+},
+{
+  "_id": {
+    "$oid": "680b5b2f8b58253d6af661d2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b3"
+  },
+  "problems_solved": 64
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661d3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c4"
+  },
+  "problems_solved": 93
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661d4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661af"
+  },
+  "problems_solved": 33
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661d5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619e"
+  },
+  "problems_solved": 18
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661d6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c0"
+  },
+  "problems_solved": 15
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661d7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c7"
+  },
+  "problems_solved": 41
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661d8"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bc"
+  },
+  "problems_solved": 108
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661d9"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c1"
+  },
+  "problems_solved": 76
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661da"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619d"
+  },
+  "problems_solved": 117
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661db"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a4"
+  },
+  "problems_solved": 68
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661dc"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ae"
+  },
+  "problems_solved": 54
+},
+{
+  "_id": {
+    "$oid": "680b5b308b58253d6af661dd"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b0"
+  },
+  "problems_solved": 3
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661de"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a3"
+  },
+  "problems_solved": 65
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661df"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ac"
+  },
+  "problems_solved": 10
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ad"
+  },
+  "problems_solved": 121
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b2"
+  },
+  "problems_solved": 15
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661be"
+  },
+  "problems_solved": 148
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619f"
+  },
+  "problems_solved": 85
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bd"
+  },
+  "problems_solved": 143
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c6"
+  },
+  "problems_solved": 144
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a6"
+  },
+  "problems_solved": 118
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ab"
+  },
+  "problems_solved": 84
+},
+{
+  "_id": {
+    "$oid": "680b5b318b58253d6af661e8"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a1"
+  },
+  "problems_solved": 87
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661e9"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a8"
+  },
+  "problems_solved": 145
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661ea"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b9"
+  },
+  "problems_solved": 34
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661eb"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bb"
+  },
+  "problems_solved": 51
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661ec"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b8"
+  },
+  "problems_solved": 31
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661ed"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c5"
+  },
+  "problems_solved": 138
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661ee"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619c"
+  },
+  "problems_solved": 65
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661ef"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661aa"
+  },
+  "problems_solved": 51
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661f0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c8"
+  },
+  "problems_solved": 67
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661f1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b4"
+  },
+  "problems_solved": 27
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661f2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b5"
+  },
+  "problems_solved": 66
+},
+{
+  "_id": {
+    "$oid": "680b5b328b58253d6af661f3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a0"
+  },
+  "problems_solved": 95
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661f4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a9"
+  },
+  "problems_solved": 36
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661f5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b6"
+  },
+  "problems_solved": 37
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661f6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ba"
+  },
+  "problems_solved": 89
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661f7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bf"
+  },
+  "problems_solved": 94
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661f8"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66199"
+  },
+  "problems_solved": 129
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661f9"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619a"
+  },
+  "problems_solved": 23
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661fa"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b7"
+  },
+  "problems_solved": 115
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661fb"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c3"
+  },
+  "problems_solved": 136
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661fc"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66197"
+  },
+  "problems_solved": 78
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661fd"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66198"
+  },
+  "problems_solved": 49
+},
+{
+  "_id": {
+    "$oid": "680b5b338b58253d6af661fe"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c2"
+  },
+  "problems_solved": 81
+},
+{
+  "_id": {
+    "$oid": "680b5b348b58253d6af661ff"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619b"
+  },
+  "problems_solved": 48
+}]

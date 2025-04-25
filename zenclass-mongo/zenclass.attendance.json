@@ -1,0 +1,3000 @@
+[{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af663fe"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a2"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af663ff"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a2"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af66400"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a2"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af66401"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a2"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af66402"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a2"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af66403"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a5"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af66404"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a5"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af66405"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a5"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd38b58253d6af66406"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a5"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af66407"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a5"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af66408"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a7"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af66409"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a7"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af6640a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a7"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af6640b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a7"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af6640c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a7"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af6640d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b1"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af6640e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b1"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af6640f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b1"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af66410"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b1"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd48b58253d6af66411"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b1"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af66412"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b3"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af66413"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b3"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af66414"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b3"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af66415"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b3"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af66416"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b3"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af66417"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c4"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af66418"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c4"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af66419"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c4"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af6641a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c4"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bd58b58253d6af6641b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c4"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af6641c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661af"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af6641d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661af"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af6641e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661af"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af6641f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661af"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af66420"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661af"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af66421"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619e"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af66422"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619e"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af66423"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619e"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af66424"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619e"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af66425"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619e"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd68b58253d6af66426"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c0"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af66427"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c0"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af66428"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c0"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af66429"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c0"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af6642a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c0"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af6642b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c7"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af6642c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c7"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af6642d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c7"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af6642e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c7"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af6642f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c7"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af66430"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bc"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd78b58253d6af66431"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bc"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af66432"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bc"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af66433"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bc"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af66434"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bc"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af66435"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c1"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af66436"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c1"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af66437"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c1"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af66438"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c1"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af66439"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c1"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af6643a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619d"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af6643b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619d"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd88b58253d6af6643c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619d"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af6643d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619d"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af6643e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619d"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af6643f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a4"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af66440"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a4"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af66441"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a4"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af66442"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a4"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af66443"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a4"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af66444"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ae"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af66445"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ae"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af66446"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ae"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bd98b58253d6af66447"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ae"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af66448"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ae"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af66449"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b0"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af6644a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b0"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af6644b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b0"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af6644c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b0"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af6644d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b0"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af6644e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a3"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af6644f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a3"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af66450"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a3"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af66451"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a3"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bda8b58253d6af66452"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a3"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af66453"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ac"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af66454"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ac"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af66455"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ac"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af66456"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ac"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af66457"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ac"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af66458"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ad"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af66459"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ad"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af6645a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ad"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af6645b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ad"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af6645c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ad"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdb8b58253d6af6645d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b2"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af6645e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b2"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af6645f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b2"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66460"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b2"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66461"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b2"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66462"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661be"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66463"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661be"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66464"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661be"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66465"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661be"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66466"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661be"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66467"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619f"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdc8b58253d6af66468"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619f"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af66469"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619f"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af6646a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619f"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af6646b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619f"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af6646c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bd"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af6646d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bd"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af6646e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bd"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af6646f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bd"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af66470"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bd"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af66471"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c6"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af66472"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c6"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdd8b58253d6af66473"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c6"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af66474"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c6"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af66475"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c6"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af66476"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a6"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af66477"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a6"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af66478"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a6"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af66479"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a6"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af6647a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a6"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af6647b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ab"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af6647c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ab"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af6647d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ab"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bde8b58253d6af6647e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ab"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af6647f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ab"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66480"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a1"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66481"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a1"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66482"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a1"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66483"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a1"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66484"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a1"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66485"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a8"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66486"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a8"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66487"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a8"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66488"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a8"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af66489"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a8"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5bdf8b58253d6af6648a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b9"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af6648b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b9"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af6648c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b9"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af6648d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b9"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af6648e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b9"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af6648f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bb"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af66490"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bb"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af66491"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bb"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af66492"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bb"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af66493"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bb"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af66494"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b8"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be08b58253d6af66495"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b8"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af66496"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b8"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af66497"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b8"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af66498"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b8"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af66499"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c5"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af6649a"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c5"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af6649b"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c5"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af6649c"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c5"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af6649d"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c5"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af6649e"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619c"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af6649f"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619c"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be18b58253d6af664a0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619c"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619c"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619c"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661aa"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661aa"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661aa"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661aa"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661aa"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a8"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c8"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664a9"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c8"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664aa"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c8"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be28b58253d6af664ab"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c8"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664ac"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c8"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664ad"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b4"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664ae"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b4"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664af"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b4"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664b0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b4"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664b1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b4"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664b2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b5"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664b3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b5"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664b4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b5"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664b5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b5"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be38b58253d6af664b6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b5"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664b7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a0"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664b8"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a0"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664b9"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a0"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664ba"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a0"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664bb"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a0"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664bc"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a9"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664bd"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a9"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664be"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a9"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664bf"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a9"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664c0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661a9"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be48b58253d6af664c1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b6"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664c2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b6"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664c3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b6"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664c4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b6"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664c5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b6"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664c6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ba"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664c7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ba"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664c8"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ba"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664c9"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ba"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664ca"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661ba"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664cb"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bf"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be58b58253d6af664cc"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bf"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664cd"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bf"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664ce"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bf"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664cf"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661bf"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664d0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66199"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664d1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66199"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664d2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66199"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664d3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66199"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664d4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66199"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664d5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619a"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664d6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619a"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be68b58253d6af664d7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619a"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664d8"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619a"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664d9"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619a"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664da"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b7"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664db"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b7"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664dc"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b7"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664dd"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b7"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664de"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661b7"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664df"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c3"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664e0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c3"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664e1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c3"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be78b58253d6af664e2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c3"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664e3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c3"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664e4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66197"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664e5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66197"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664e6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66197"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664e7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66197"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664e8"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66197"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664e9"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66198"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664ea"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66198"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "absent"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664eb"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66198"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664ec"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66198"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be88b58253d6af664ed"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af66198"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664ee"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c2"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664ef"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c2"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664f0"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c2"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664f1"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c2"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664f2"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af661c2"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664f3"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619b"
+  },
+  "date": {
+    "$date": "2020-10-15T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664f4"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619b"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664f5"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619b"
+  },
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664f6"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619b"
+  },
+  "date": {
+    "$date": "2020-11-10T00:00:00.000Z"
+  },
+  "status": "present"
+},
+{
+  "_id": {
+    "$oid": "680b5be98b58253d6af664f7"
+  },
+  "user_id": {
+    "$oid": "680b5ad38b58253d6af6619b"
+  },
+  "date": {
+    "$date": "2020-11-20T00:00:00.000Z"
+  },
+  "status": "present"
+}]
