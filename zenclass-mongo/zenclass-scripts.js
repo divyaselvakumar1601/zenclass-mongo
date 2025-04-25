@@ -1,4 +1,6 @@
-// Topics in October 2020
+
+//    1.FIND ALL THE TOPICS AND TASK WHICH ARE THOUGHT IN THE MONTH OF OCTOBER
+
 db.topics.find({
     date: {
       $gte: ISODate("2020-10-01T00:00:00Z"),
@@ -6,13 +8,16 @@ db.topics.find({
     }
   });
   
-  // Tasks in October 2020
+ 
   db.tasks.find({
     date: {
       $gte: ISODate("2020-10-01T00:00:00Z"),
       $lte: ISODate("2020-10-31T23:59:59Z")
     }
   });
+
+
+  //OUTPUT
   {
     _id: ObjectId('680b5b8e8b58253d6af6620a'),
     user_id: ObjectId('680b5ad38b58253d6af661a2'),
@@ -173,15 +178,20 @@ db.topics.find({
     submitted: true,
     date: 2020-10-15T00:00:00.000Z
   }
-  Type "it" for more
-  //Find all the company drives between 15-Oct-2020 and 31-Oct-2020
-  //Find all the company drives between 15-Oct-2020 and 31-Oct-2020
+
+
+
+  
+/// 2. FIND ALL THE COMPANY DRIVES WHICH APPEARED BETWEEN 15 OCT 2020 AND 31 OCT 2020
   db.company_drives.find({
     date: {
       $gte: ISODate("2020-10-15T00:00:00Z"),
       $lte: ISODate("2020-10-31T23:59:59Z")
     }
   });
+
+
+//OUPUT
   {
     _id: ObjectId('680b5e748b58253d6af664fa'),
     company: 'Google',
@@ -250,7 +260,12 @@ db.topics.find({
       ObjectId('680b5ad38b58253d6af661b1')
     ]
   }
-  //Find all company drives and students who appeared for placement
+  
+
+
+// 3.FIND ALL THE COMPANY DRIVES AND STUDENT WHO ARE APPEARED FOR THE PLACEMENT
+
+
   db.company_drives.aggregate([
     {
       $lookup: {
@@ -270,6 +285,11 @@ db.topics.find({
       }
     }
   ]);
+
+
+
+//output
+
   {
     company: 'Google',
     date: 2020-10-16T00:00:00.000Z,
@@ -730,7 +750,13 @@ db.topics.find({
       }
     ]
   }
-  //Find the number of problems solved by each user in CodeKata
+
+
+
+
+
+ //4. FIND THE NUMBER OF PROBLEMS SOLVED BY THE USER IN CODEKATA
+
   db.codekata.aggregate([
     {
       $lookup: {
@@ -832,41 +858,151 @@ db.topics.find({
     user: 'User28'
   }
   Type "it" for more
-  // Find number of users who were absent and didn’t submit tasks between 15–31 Oct
-  const absentUserIds = db.attendance.find({
-    date: { $gte: ISODate("2020-10-15"), $lte: ISODate("2020-10-31") },
-    status: "absent"
-  }).map(doc => doc.user_id);
+ 
+  
+  //    5.FIND ALL THE MENTORS WITH WHO HAS THE MENTEE'S COUNT MORE THAN 15
+
+
+ db.mentors.find({ $expr: { $gt: [{ $size: "$mentee_ids" }, 15] } })
+
+
+  //output
+  {
+    _id: ObjectId('680b5adf8b58253d6af661c9'),
+    name: 'Mentor1',
+    mentee_ids: [
+      ObjectId('680b5ad38b58253d6af66197'),
+      ObjectId('680b5ad38b58253d6af6619c'),
+      ObjectId('680b5ad38b58253d6af661a1'),
+      ObjectId('680b5ad38b58253d6af661a6'),
+      ObjectId('680b5ad38b58253d6af661ab'),
+      ObjectId('680b5ad38b58253d6af661b0'),
+      ObjectId('680b5ad38b58253d6af661b5'),
+      ObjectId('680b5ad38b58253d6af661ba'),
+      ObjectId('680b5ad38b58253d6af661bf'),
+      ObjectId('680b5ad38b58253d6af661c4'),
+      ObjectId('680b5ad38b58253d6af66197'),
+      ObjectId('680b5ad38b58253d6af6619c'),
+      ObjectId('680b5ad38b58253d6af661a1'),
+      ObjectId('680b5ad38b58253d6af661a6'),
+      ObjectId('680b5ad38b58253d6af661ab'),
+      ObjectId('680b5ad38b58253d6af661b0'),
+      ObjectId('680b5ad38b58253d6af661b5'),
+      ObjectId('680b5ad38b58253d6af661ba'),
+      ObjectId('680b5ad38b58253d6af661bf'),
+      ObjectId('680b5ad38b58253d6af661c4')
+    ]
+  }
+  {
+    _id: ObjectId('680b5adf8b58253d6af661ca'),
+    name: 'Mentor2',
+    mentee_ids: [
+      ObjectId('680b5ad38b58253d6af66198'),
+      ObjectId('680b5ad38b58253d6af6619d'),
+      ObjectId('680b5ad38b58253d6af661a2'),
+      ObjectId('680b5ad38b58253d6af661a7'),
+      ObjectId('680b5ad38b58253d6af661ac'),
+      ObjectId('680b5ad38b58253d6af661b1'),
+      ObjectId('680b5ad38b58253d6af661b6'),
+      ObjectId('680b5ad38b58253d6af661bb'),
+      ObjectId('680b5ad38b58253d6af661c0'),
+      ObjectId('680b5ad38b58253d6af661c5'),
+      ObjectId('680b5ad38b58253d6af66198'),
+      ObjectId('680b5ad38b58253d6af6619d'),
+      ObjectId('680b5ad38b58253d6af661a2'),
+      ObjectId('680b5ad38b58253d6af661a7'),
+      ObjectId('680b5ad38b58253d6af661ac'),
+      ObjectId('680b5ad38b58253d6af661b1'),
+      ObjectId('680b5ad38b58253d6af661b6'),
+      ObjectId('680b5ad38b58253d6af661bb'),
+      ObjectId('680b5ad38b58253d6af661c0'),
+      ObjectId('680b5ad38b58253d6af661c5')
+    ]
+  }
+  {
+    _id: ObjectId('680b5adf8b58253d6af661cb'),
+    name: 'Mentor3',
+    mentee_ids: [
+      ObjectId('680b5ad38b58253d6af66199'),
+      ObjectId('680b5ad38b58253d6af6619e'),
+      ObjectId('680b5ad38b58253d6af661a3'),
+      ObjectId('680b5ad38b58253d6af661a8'),
+      ObjectId('680b5ad38b58253d6af661ad'),
+      ObjectId('680b5ad38b58253d6af661b2'),
+      ObjectId('680b5ad38b58253d6af661b7'),
+      ObjectId('680b5ad38b58253d6af661bc'),
+      ObjectId('680b5ad38b58253d6af661c1'),
+      ObjectId('680b5ad38b58253d6af661c6'),
+      ObjectId('680b5ad38b58253d6af66199'),
+      ObjectId('680b5ad38b58253d6af6619e'),
+      ObjectId('680b5ad38b58253d6af661a3'),
+      ObjectId('680b5ad38b58253d6af661a8'),
+      ObjectId('680b5ad38b58253d6af661ad'),
+      ObjectId('680b5ad38b58253d6af661b2'),
+      ObjectId('680b5ad38b58253d6af661b7'),
+      ObjectId('680b5ad38b58253d6af661bc'),
+      ObjectId('680b5ad38b58253d6af661c1'),
+      ObjectId('680b5ad38b58253d6af661c6')
+    ]
+  }
+  {
+    _id: ObjectId('680b5adf8b58253d6af661cc'),
+    name: 'Mentor4',
+    mentee_ids: [
+      ObjectId('680b5ad38b58253d6af6619a'),
+      ObjectId('680b5ad38b58253d6af6619f'),
+      ObjectId('680b5ad38b58253d6af661a4'),
+      ObjectId('680b5ad38b58253d6af661a9'),
+      ObjectId('680b5ad38b58253d6af661ae'),
+      ObjectId('680b5ad38b58253d6af661b3'),
+      ObjectId('680b5ad38b58253d6af661b8'),
+      ObjectId('680b5ad38b58253d6af661bd'),
+      ObjectId('680b5ad38b58253d6af661c2'),
+      ObjectId('680b5ad38b58253d6af661c7'),
+      ObjectId('680b5ad38b58253d6af6619a'),
+      ObjectId('680b5ad38b58253d6af6619f'),
+      ObjectId('680b5ad38b58253d6af661a4'),
+      ObjectId('680b5ad38b58253d6af661a9'),
+      ObjectId('680b5ad38b58253d6af661ae'),
+      ObjectId('680b5ad38b58253d6af661b3'),
+      ObjectId('680b5ad38b58253d6af661b8'),
+      ObjectId('680b5ad38b58253d6af661bd'),
+      ObjectId('680b5ad38b58253d6af661c2'),
+      ObjectId('680b5ad38b58253d6af661c7')
+    ]
+  }
+  {
+    _id: ObjectId('680b5adf8b58253d6af661cd'),
+    name: 'Mentor5',
+    mentee_ids: [
+      ObjectId('680b5ad38b58253d6af6619b'),
+      ObjectId('680b5ad38b58253d6af661a0'),
+      ObjectId('680b5ad38b58253d6af661a5'),
+      ObjectId('680b5ad38b58253d6af661aa'),
+      ObjectId('680b5ad38b58253d6af661af'),
+      ObjectId('680b5ad38b58253d6af661b4'),
+      ObjectId('680b5ad38b58253d6af661b9'),
+      ObjectId('680b5ad38b58253d6af661be'),
+      ObjectId('680b5ad38b58253d6af661c3'),
+      ObjectId('680b5ad38b58253d6af661c8'),
+      ObjectId('680b5ad38b58253d6af6619b'),
+      ObjectId('680b5ad38b58253d6af661a0'),
+      ObjectId('680b5ad38b58253d6af661a5'),
+      ObjectId('680b5ad38b58253d6af661aa'),
+      ObjectId('680b5ad38b58253d6af661af'),
+      ObjectId('680b5ad38b58253d6af661b4'),
+      ObjectId('680b5ad38b58253d6af661b9'),
+      ObjectId('680b5ad38b58253d6af661be'),
+      ObjectId('680b5ad38b58253d6af661c3'),
+      ObjectId('680b5ad38b58253d6af661c8')
+    ]
+  }
+
   
   
-  const noSubmitUserIds = db.tasks.find({
-    user_id: { $in: absentUserIds },
-    date: { $gte: ISODate("2020-10-15"), $lte: ISODate("2020-10-31") },
-    submitted: false
-  }).map(doc => doc.user_id);
-  
-  
-  const uniqueUsers = [...new Set(noSubmitUserIds)];
-  print("Users absent and didn’t submit tasks:", uniqueUsers.length);
-  TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))
-  
-  const absentUserIds = db.attendance.find({
-    date: { $gte: ISODate("2020-10-15"), $lte: ISODate("2020-10-31") },
-    status: "absent"
-  }).map(doc => doc.user_id);
-  
-  
-  const noSubmitUserIds = db.tasks.find({
-    user_id: { $in: absentUserIds },
-    date: { $gte: ISODate("2020-10-15"), $lte: ISODate("2020-10-31") },
-    submitted: false
-  }).map(doc => doc.user_id);
-  
-  
-  const uniqueUsers = [...new Set(noSubmitUserIds)];
-  print("Users absent and didn’t submit tasks:", uniqueUsers.length);
-  TypeError: object is not iterable (cannot read property Symbol(Symbol.iterator))
-  // Find the number of users who were absent and didn’t submit tasks between 15–31 Oct
+
+
+  //6.FIND THE NUMBER OF USERS WHO ARE ABSENT AND TASK IS NOT SUBMITTED BETWEEN 15 OCT 2020 AND 31 OCT 2020
   const absentUsers = db.attendance.find({
     date: {
       $gte: ISODate("2020-10-15"),
@@ -887,9 +1023,11 @@ db.topics.find({
   
   const uniqueUsers = [...new Set(noTaskUsers)];
   print("Users who were absent and didn’t submit tasks:", uniqueUsers.length);
+
+
+  //output:
   Users who were absent and didn’t submit tasks:
   0
-  Atlas atlas-vstiof-shard-0 [primary] zenclass
-  Selection deleted
+ 
   
   
